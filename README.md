@@ -1,1 +1,3 @@
-# template
+# Hello World
+
+This is a simple "Hello World" program that displays the message "Hello World" in the console and as a heading on a web page. The program is written in JavaScript and HTML. The JavaScript code uses the `console.log()` method to print the "Hello World" message to the console. The HTML code creates a basic web page structure with a head and body, and includes a title, link to a favicon and a script tag that links to the `app.js` file, where the javascript code resides. The body of the web page also includes an `h1` heading element with the text "Hello World". The author of the project is Deeshan Mahida and the date is Jan 28, 2023.
